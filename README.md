@@ -2,7 +2,7 @@
 
 Code and data accompanying the MethodsX article
 
-> **A physics-informed spatio-temporal method for mapping UAV link availability under tropical rain, equatorial ionospheric scintillation and radio interference**
+> **Spatio-temporal modelling of drone transmission performance from environmental parameters and radio interference in equatorial environments**
 > Muhammad Reza Firmansyah Tanjung, Niken Dwi Wahyu Cahyani, Sidik Prabowo — Telkom University, Bandung, Indonesia.
 
 PI-STLA combines ITU-R gaseous, cloud and rain attenuation, a probabilistic air-to-ground path-loss model, an S4-driven Nakagami-*m* scintillation model and a Poisson-field aggregate-interference model into one SINR expression, and uses that expression as the physics-informed mean of a non-separable spatio-temporal Gaussian process. The output is a probabilistic link-availability map Â(**s**, *t*).
