@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PI-STLA: physics-informed spatio-temporal link availability for UAV links in equatorial regions"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+authors:
+  - family-names: Tanjung
+    given-names: Muhammad Reza Firmansyah
+    affiliation: Telkom University
+  - family-names: Cahyani
+    given-names: Niken Dwi Wahyu
+    affiliation: Telkom University
+  - family-names: Prabowo
+    given-names: Sidik
+    affiliation: Telkom University
